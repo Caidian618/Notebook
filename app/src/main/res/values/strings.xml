@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notebook</string>
+    <string name="tool">请输入标题</string>
+    <string name="edicor">请输入作者</string>
+    <string name="c">请输入内容</string>
+    <string name="d">选择图片</string>
+    <string name="s">保存</string>
+    <string name="n">取消</string>
+</resources>
